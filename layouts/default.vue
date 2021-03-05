@@ -34,16 +34,13 @@ export default {
       title: 'ZEOBX_MANGA',
       items: [
           {
-            src: 'https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg',
+            src: 'https://i.pinimg.com/originals/53/8b/17/538b1769089f5604920570920e50eb50.jpg',
           },
           {
-            src: 'https://cdn.vuetifyjs.com/images/carousel/sky.jpg',
+            src: 'https://i.pinimg.com/originals/fd/67/63/fd6763c75d1dbc9a1c88e9498b8ef4df.jpg',
           },
           {
-            src: 'https://cdn.vuetifyjs.com/images/carousel/bird.jpg',
-          },
-          {
-            src: 'https://cdn.vuetifyjs.com/images/carousel/planet.jpg',
+            src: 'https://www.tkpark.or.th/stocks/extra/0061e8.jpg',
           },
         ],
     }
